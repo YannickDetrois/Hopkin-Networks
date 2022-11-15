@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.vs/
+*.ipynb_checkpoints/
+*.DS_Store
+
+
+#cProfile test
+*.prof
+
+#Unit test / coverage reports
+htmlcov/
+.coverage
+*.html
+
